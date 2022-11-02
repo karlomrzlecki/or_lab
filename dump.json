@@ -1,0 +1,3352 @@
+[{
+  "_id": {
+    "$oid": "635946525afa82398e827a40"
+  },
+  "charname": "Silk",
+  "birthname": "Cindy Moon",
+  "types": [
+    "mutate",
+    "comics character"
+  ],
+  "universes": [
+    "Earth-616",
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "superhuman agility / reflexes",
+    "superhuman durability",
+    "superhuman speed",
+    "superhuman strength"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a41"
+  },
+  "charname": "Snowbird",
+  "birthname": "Narya",
+  "types": [
+    "demigod or quasi-deity in a work of fiction",
+    "comics character"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "flight",
+    "shapeshifting",
+    "superhuman strength",
+    "retrocognition"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a42"
+  },
+  "charname": "Thunderbird",
+  "birthname": "John Proudstar",
+  "types": [
+    "television character",
+    "animated character",
+    "mutant"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "superhuman durability",
+    "superhuman speed",
+    "superhuman strength"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a43"
+  },
+  "charname": "Cannonball",
+  "birthname": "Samuel Zachery Guthrie",
+  "types": [
+    "superhero film character",
+    "animated character",
+    "mutant"
+  ],
+  "universes": [
+    "Earth-616",
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "thermo-chemical energy"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a44"
+  },
+  "charname": "Shriek",
+  "birthname": "Frances Louise Barrison",
+  "types": [
+    "film character",
+    "comics character"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "sonic scream"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a45"
+  },
+  "charname": "Galactus",
+  "birthname": "Galan",
+  "types": [
+    "fictional humanoid extraterrestrial",
+    "cosmic entity",
+    "comics character"
+  ],
+  "universes": [
+    "Earth-616",
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "superhuman durability",
+    "superhuman speed",
+    "reality warping",
+    "teleportation",
+    "immortality",
+    "superhuman strength",
+    "levitation",
+    "force field",
+    "healing factor",
+    "psychokinesis",
+    "time travel",
+    "telepathy"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a46"
+  },
+  "charname": "Harry Osborn",
+  "birthname": "Harold Theopolis Osborn",
+  "types": [
+    "superhero film character",
+    "animated character",
+    "mutate",
+    "comics character"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "superhuman durability",
+    "superhuman speed",
+    "superhuman strength",
+    "healing factor"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a47"
+  },
+  "charname": "Chris Bradley",
+  "birthname": "Christopher Bradley",
+  "types": [
+    "superhero film character",
+    "mutant"
+  ],
+  "universes": [
+    "Earth-616",
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "technopathy",
+    "electrokinesis"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a48"
+  },
+  "charname": "Ultimate Magneto",
+  "birthname": "Erik Lensherr",
+  "types": [
+    "mutant"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "magnetism manipulation"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a49"
+  },
+  "charname": "Magneto",
+  "birthname": "Max Eisenhardt",
+  "types": [
+    "superhero film character",
+    "animated character",
+    "comics character",
+    "mutant"
+  ],
+  "universes": [
+    "Earth-616",
+    "Marvel Universe"
+  ],
+  "birthplace": "Germany",
+  "superpowers": [
+    "electromagnetism manipulation",
+    "magnetism manipulation"
+  ],
+  "religions": "Judaism",
+  "gender": "male",
+  "occupation": [
+    "teacher",
+    "head teacher",
+    "ruler",
+    "spy",
+    "orderly"
+  ],
+  "memberof": [
+    "X-Men",
+    "Brotherhood of Mutants",
+    "New Mutants",
+    "Hellfire Club",
+    "Excalibur",
+    "Acolytes",
+    "Savage Land Mutates"
+  ]
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a4a"
+  },
+  "charname": "Ultimate Angel",
+  "birthname": "Warren Worthington III",
+  "types": [
+    "mutant"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "flight"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a4b"
+  },
+  "charname": "Vulcan",
+  "birthname": "Gabriel Summers",
+  "types": [
+    "mutant"
+  ],
+  "universes": [
+    "Earth-616",
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "flight",
+    "power mimicry or absorption",
+    "magnetism manipulation",
+    "electrokinesis",
+    "force field",
+    "healing factor"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a4c"
+  },
+  "charname": "Kitty Pryde",
+  "birthname": "Katherine Anne Pryde",
+  "types": [
+    "superhero film character",
+    "animated character",
+    "mutant"
+  ],
+  "universes": [
+    "Earth-616",
+    "Marvel Universe"
+  ],
+  "birthplace": "Deerfield",
+  "superpowers": [
+    "intangibility"
+  ],
+  "religions": "Judaism",
+  "gender": "female",
+  "occupation": [
+    "teacher",
+    "superhero",
+    "bartender",
+    "aircraft pilot",
+    "government agent",
+    "circus performer"
+  ],
+  "memberof": [
+    "X-Men",
+    "S.H.I.E.L.D.",
+    "New Mutants",
+    "Guardians of the Galaxy",
+    "Excalibur"
+  ]
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a4d"
+  },
+  "charname": "Wolfsbane",
+  "birthname": "Rahne Sinclair",
+  "types": [
+    "superhero film character",
+    "werewolf in a work of fiction",
+    "animated character",
+    "mutant"
+  ],
+  "universes": [
+    "Earth-616",
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "superhuman senses",
+    "superhuman speed",
+    "superhuman strength",
+    "lycanthropy",
+    "healing factor"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a4e"
+  },
+  "charname": "Mystique",
+  "birthname": "Raven Darkhölme",
+  "types": [
+    "superhero film character",
+    "animated character",
+    "mutant"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "shapeshifting"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a4f"
+  },
+  "charname": "Ultimate Kitty Pryde",
+  "birthname": "Katherine Pryde",
+  "types": [
+    "mutant"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "intangibility"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a50"
+  },
+  "charname": "Anya Corazon",
+  "birthname": "Anya Sofia Corazon",
+  "types": [
+    "mutate",
+    "comics character"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "superhuman agility / reflexes",
+    "superhuman strength"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a51"
+  },
+  "charname": "Adam X",
+  "birthname": "Adam Neramani",
+  "types": [
+    "extraterrestrial–human hybrid in a work of fiction",
+    "mutant"
+  ],
+  "universes": [
+    "Earth-616",
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "superhuman agility / reflexes",
+    "superhuman speed",
+    "superhuman strength",
+    "healing factor"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a52"
+  },
+  "charname": "Banshee",
+  "birthname": "Sean Cassidy",
+  "types": [
+    "superhero film character",
+    "animated character",
+    "comics character",
+    "mutant"
+  ],
+  "universes": [
+    "Earth-616",
+    "Marvel Universe"
+  ],
+  "birthplace": "County Mayo",
+  "superpowers": [
+    "sonic scream"
+  ],
+  "religions": "Catholicism",
+  "gender": "male",
+  "occupation": [
+    "superhero",
+    "detective",
+    "head teacher",
+    "barker",
+    "criminal"
+  ],
+  "memberof": [
+    "Interpol",
+    "X-Men",
+    "New York City Police Department",
+    "Generation X",
+    "Factor Three",
+    "X-Corps"
+  ]
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a53"
+  },
+  "charname": "Rhino",
+  "birthname": "Алексей Михайлович Сицевич",
+  "types": [
+    "gamma mutate",
+    "film character",
+    "animated character",
+    "comics character"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "superhuman durability",
+    "superhuman speed",
+    "superhuman strength"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a54"
+  },
+  "charname": "Nuke",
+  "birthname": "Frank Simpson",
+  "types": [
+    "television character",
+    "mutate"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "superhuman durability",
+    "superhuman speed",
+    "superhuman strength"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a55"
+  },
+  "charname": "Ultimate Firestar",
+  "birthname": "Elizabeth Allan",
+  "types": [
+    "mutant"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "pyrokinesis",
+    "flight"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a56"
+  },
+  "charname": "Elliot Boggs",
+  "birthname": "Elliot Boggs",
+  "types": [
+    "mutant"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "reality warping"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a57"
+  },
+  "charname": "Ahab",
+  "birthname": "Roderick Campbell",
+  "types": [
+    "cyborg in a work of fiction",
+    "television character",
+    "comics character"
+  ],
+  "universes": [
+    "Marvel Universe",
+    "Earth-811"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "superhuman strength",
+    "superhuman durability"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a58"
+  },
+  "charname": "Daredevil",
+  "birthname": "Matthew Michael Murdock",
+  "types": [
+    "superhero film character",
+    "television character",
+    "animated character",
+    "fictional human",
+    "mutate"
+  ],
+  "universes": [
+    "Earth-616",
+    "Marvel Universe"
+  ],
+  "birthplace": "New York City",
+  "superpowers": [
+    "superhuman senses"
+  ],
+  "religions": "Catholicism",
+  "gender": "male",
+  "occupation": [
+    "ninja",
+    "lawyer",
+    "superhero",
+    "martial artist",
+    "fictional vigilante"
+  ],
+  "memberof": [
+    "Avengers",
+    "Defenders",
+    "Marvel Knights"
+  ]
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a59"
+  },
+  "charname": "Legion",
+  "birthname": "David Charles Haller",
+  "types": [
+    "television character",
+    "animated character",
+    "mutant"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "shapeshifting",
+    "reality warping",
+    "chronokinesis",
+    "pyrokinesis",
+    "psychokinesis",
+    "telepathy"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a5a"
+  },
+  "charname": "Whirlwind",
+  "birthname": "David Cannon",
+  "types": [
+    "fictional human",
+    "mutant"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "flight",
+    "superhuman agility / reflexes",
+    "superhuman speed",
+    "aerokinesis"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a5b"
+  },
+  "charname": "Wild Child",
+  "birthname": "Kyle Gibney",
+  "types": [
+    "mutant"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "superhuman senses",
+    "superhuman agility / reflexes",
+    "healing factor"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a5c"
+  },
+  "charname": "Feral",
+  "birthname": "Maria Callasantos",
+  "types": [
+    "mutant"
+  ],
+  "universes": [
+    "Earth-616",
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "superhuman senses",
+    "superhuman agility / reflexes",
+    "superhuman durability",
+    "superhuman speed",
+    "superhuman strength"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a5d"
+  },
+  "charname": "Jubilee",
+  "birthname": "Jubilation Lee",
+  "types": [
+    "superhero film character",
+    "animated character",
+    "vampire in Marvel Universe",
+    "comics character",
+    "mutant"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "energy blasts"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a5e"
+  },
+  "charname": "Aero",
+  "birthname": "Melody Guthrie",
+  "types": [
+    "comics character",
+    "mutant"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "flight"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a5f"
+  },
+  "charname": "Icarus",
+  "birthname": "Joshua Guthrie",
+  "types": [
+    "mutant"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "flight",
+    "healing factor"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a60"
+  },
+  "charname": "Bishop",
+  "birthname": "Lucas Bishop",
+  "types": [
+    "superhero film character",
+    "animated character",
+    "mutant"
+  ],
+  "universes": [
+    "Earth-1191",
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "energy manipulation",
+    "superhuman durability",
+    "superhuman strength"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a61"
+  },
+  "charname": "Captain Britain",
+  "birthname": "Brian Braddock",
+  "types": [
+    "mutate",
+    "comics character"
+  ],
+  "universes": [
+    "Earth-616",
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "flight",
+    "superhuman senses",
+    "superhuman agility / reflexes",
+    "superhuman durability",
+    "superhuman strength",
+    "precognition"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a62"
+  },
+  "charname": "Warren Worthington III",
+  "birthname": "Warren Kenneth Worthington III",
+  "types": [
+    "superhero film character",
+    "animated character",
+    "mutant"
+  ],
+  "universes": [
+    "Earth-616",
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "flight",
+    "healing factor"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a63"
+  },
+  "charname": "Mister Negative",
+  "birthname": "Martin Li",
+  "types": [
+    "mutate",
+    "comics character"
+  ],
+  "universes": [
+    "Earth-616",
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "superhuman agility / reflexes",
+    "mind control",
+    "superhuman strength"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a64"
+  },
+  "charname": "High Evolutionary",
+  "birthname": "Herbert Edgar Wyndham",
+  "types": [
+    "mutate",
+    "comics character"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "technopathy",
+    "clairvoyance",
+    "astral projection",
+    "psychokinesis",
+    "telepathy"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a65"
+  },
+  "charname": "Ultimate Wolverine",
+  "birthname": "James Howlett",
+  "types": [
+    "mutant"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "superhuman endurance",
+    "superhuman longevity",
+    "superhuman senses",
+    "superhuman agility / reflexes",
+    "superhuman strength",
+    "healing factor"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a66"
+  },
+  "charname": "Warpath",
+  "birthname": "James Proudstar",
+  "types": [
+    "superhero film character",
+    "mutant"
+  ],
+  "universes": [
+    "Earth-616",
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "flight",
+    "superhuman speed",
+    "superhuman strength"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a67"
+  },
+  "charname": "Ghost Rider",
+  "birthname": "John Blaze",
+  "types": [
+    "superhero film character",
+    "comics character"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "immortality",
+    "superhuman strength",
+    "pyrokinesis",
+    "healing factor"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a68"
+  },
+  "charname": "Genesis",
+  "birthname": "Tyler Dayspring",
+  "types": [
+    "mutant"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "telepathy"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a69"
+  },
+  "charname": "Morbius, the Living Vampire",
+  "birthname": "Michael Morbius",
+  "types": [
+    "superhero film character",
+    "vampire in a work of fiction",
+    "animated character",
+    "mutate"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "superhuman endurance",
+    "superhuman senses",
+    "superhuman agility / reflexes",
+    "superhuman speed",
+    "superhuman strength",
+    "healing factor"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a6a"
+  },
+  "charname": "Grand Director",
+  "birthname": "William Burnside",
+  "types": [
+    "mutate",
+    "supersoldier",
+    "comics character"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "superhuman strength"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a6b"
+  },
+  "charname": "Spider-Woman",
+  "birthname": "Jessica Miriam Drew",
+  "types": [
+    "animated character",
+    "fictional human",
+    "mutate"
+  ],
+  "universes": [
+    "Earth-616",
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "superhuman durability",
+    "superhuman speed",
+    "superhuman strength"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a6c"
+  },
+  "charname": "Ultimate Cyclops",
+  "birthname": "Scott Summers",
+  "types": [
+    "mutant"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "optic blasts"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a6d"
+  },
+  "charname": "Menace",
+  "birthname": "Lily Hollister",
+  "types": [
+    "mutate",
+    "comics character"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "superhuman strength"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a6e"
+  },
+  "charname": "Blob",
+  "birthname": "Frederick J. Dukes",
+  "types": [
+    "superhero film character",
+    "animated character",
+    "comics character",
+    "mutant"
+  ],
+  "universes": [
+    "Earth-616",
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "superhuman strength",
+    "superhuman durability"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a6f"
+  },
+  "charname": "Firestar",
+  "birthname": "Angelica Jones",
+  "types": [
+    "mutant"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "flight",
+    "pyrokinesis"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a70"
+  },
+  "charname": "Aurora",
+  "birthname": "Jeanne-Marie Beaubier",
+  "types": [
+    "mutant"
+  ],
+  "universes": [
+    "Earth-616",
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "flight",
+    "superhuman agility / reflexes",
+    "superhuman durability",
+    "superhuman speed",
+    "photokinesis"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a71"
+  },
+  "charname": "Spider-Girl",
+  "birthname": "May Parker",
+  "types": [
+    "mutate",
+    "comics character"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "superhuman speed",
+    "superhuman strength"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a72"
+  },
+  "charname": "Old Man Logan",
+  "birthname": "James Howlett",
+  "types": [
+    "mutant"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "superhuman longevity",
+    "superhuman senses",
+    "superhuman agility / reflexes",
+    "superhuman strength",
+    "healing factor"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a73"
+  },
+  "charname": "Blade",
+  "birthname": "Eric Brooks",
+  "types": [
+    "dhampir in a work of fiction",
+    "superhero film character",
+    "television character",
+    "animated character",
+    "comics character"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "superhuman longevity",
+    "superhuman senses",
+    "superhuman agility / reflexes",
+    "superhuman durability",
+    "superhuman speed",
+    "superhuman strength",
+    "healing factor"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a74"
+  },
+  "charname": "Nova",
+  "birthname": "Frankie Raye",
+  "types": [
+    "mutate",
+    "comics character"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "energy manipulation",
+    "flight",
+    "pyrokinesis"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a75"
+  },
+  "charname": "Cable",
+  "birthname": "Nathan Christopher Charles Summers",
+  "types": [
+    "superhero film character",
+    "cyborg in a work of fiction",
+    "animated character",
+    "mutant"
+  ],
+  "universes": [
+    "Earth-616",
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "technopathy",
+    "psychokinesis",
+    "telepathy"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a76"
+  },
+  "charname": "Copycat",
+  "birthname": "Vanessa Geraldine Carlysle",
+  "types": [
+    "superhero film character",
+    "mutant"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "power mimicry or absorption",
+    "shapeshifting"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a77"
+  },
+  "charname": "Kraven the Hunter",
+  "birthname": "Сергей Николаевич Кравинов",
+  "types": [
+    "superhero film character",
+    "animated character",
+    "mutate"
+  ],
+  "universes": [
+    "Earth-616",
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "superhuman speed",
+    "superhuman strength"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a78"
+  },
+  "charname": "Hulk",
+  "birthname": "Bruce Banner",
+  "types": [
+    "gamma mutate",
+    "superhero film character",
+    "mutate",
+    "comics character"
+  ],
+  "universes": [
+    "Earth-616",
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "healing factor"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a79"
+  },
+  "charname": "Tiger Shark",
+  "birthname": "Todd Arliss",
+  "types": [
+    "mutate",
+    "comics character"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "waterbreathing",
+    "superhuman durability",
+    "superhuman strength"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a7a"
+  },
+  "charname": "Nightcrawler",
+  "birthname": "Kurt Wagner",
+  "types": [
+    "superhero film character",
+    "animated character",
+    "mutant"
+  ],
+  "universes": [
+    "Earth-616",
+    "Marvel Universe"
+  ],
+  "birthplace": "Bavaria",
+  "superpowers": [
+    "superhuman agility / reflexes",
+    "teleportation"
+  ],
+  "religions": "Catholicism",
+  "gender": "male",
+  "occupation": [
+    "priest",
+    "superhero",
+    "circus performer"
+  ],
+  "memberof": [
+    "X-Men",
+    "Excalibur",
+    "X-Treme Sanctions Executive"
+  ]
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a7b"
+  },
+  "charname": "Spider-Man 2099",
+  "birthname": "Miguel O'Hara",
+  "types": [
+    "fictional king",
+    "animated character",
+    "mutate",
+    "comics character"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "superhuman senses",
+    "superhuman agility / reflexes",
+    "superhuman speed",
+    "superhuman strength",
+    "healing factor"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a7c"
+  },
+  "charname": "Cassandra Nova",
+  "birthname": "Cassandra Xavier",
+  "types": [
+    "comics character"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "intangibility",
+    "telepathy"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a7d"
+  },
+  "charname": "Domino",
+  "birthname": "http://www.wikidata.org/.well-known/genid/019c2aed05b2f1ba6f4917d9e98d9f91",
+  "types": [
+    "superhero film character",
+    "animated character",
+    "mutant"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "probability manipulation"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a7e"
+  },
+  "charname": "Dazzler",
+  "birthname": "Alison Blaire",
+  "types": [
+    "superhero film character",
+    "mutant"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "photokinesis"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a7f"
+  },
+  "charname": "Wolverine",
+  "birthname": "James Howlett",
+  "types": [
+    "anime character",
+    "superhero film character",
+    "animated character",
+    "literary character",
+    "video game character",
+    "comics character",
+    "mutant"
+  ],
+  "universes": [
+    "Earth-616",
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "superhuman longevity",
+    "superhuman senses",
+    "superhuman agility / reflexes",
+    "superhuman strength",
+    "healing factor"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a80"
+  },
+  "charname": "Ultimate Black Cat",
+  "birthname": "Felicia Hardy",
+  "types": [
+    "fictional human",
+    "comics character"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "enhanced smell",
+    "superhuman agility / reflexes",
+    "probability manipulation",
+    "night vision"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a81"
+  },
+  "charname": "Thunderbolt Ross",
+  "birthname": "Thaddeus E. Ross",
+  "types": [
+    "gamma mutate",
+    "film character",
+    "animated character",
+    "fictional human",
+    "mutate",
+    "supersoldier"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "superhuman durability",
+    "superhuman speed",
+    "superhuman strength",
+    "healing factor"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a82"
+  },
+  "charname": "Satana",
+  "birthname": "Satana Hellstrom",
+  "types": [
+    "half-demon in a work of fiction",
+    "comics character"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "pyrokinesis",
+    "levitation",
+    "force field"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a83"
+  },
+  "charname": "Tigra",
+  "birthname": "Greer Grant",
+  "types": [
+    "animated character",
+    "mutate",
+    "comics character"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "superhuman senses",
+    "superhuman agility / reflexes",
+    "superhuman speed",
+    "superhuman strength"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a84"
+  },
+  "charname": "Amanda Sefton",
+  "birthname": "Jimaine Szardos",
+  "types": [
+    "witch in a work of fiction",
+    "animated character",
+    "comics character"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "shapeshifting",
+    "teleportation"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a85"
+  },
+  "charname": "Emma Frost",
+  "birthname": "Emma Grace Frost",
+  "types": [
+    "anime character",
+    "superhero film character",
+    "animated character",
+    "mutant"
+  ],
+  "universes": [
+    "Earth-616",
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "inorganic",
+    "superhuman durability",
+    "superhuman strength",
+    "telepathy"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a86"
+  },
+  "charname": "Korvus",
+  "birthname": "Korvus Rook'shir",
+  "types": [
+    "comics character",
+    "Shi'ar"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "superhuman agility / reflexes",
+    "superhuman durability",
+    "superhuman speed",
+    "superhuman strength"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a87"
+  },
+  "charname": "Proteus",
+  "birthname": "Kevin MacTaggert",
+  "types": [
+    "animated character",
+    "mutant"
+  ],
+  "universes": [
+    "Earth-616",
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "reality warping",
+    "body hopping"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a88"
+  },
+  "charname": "Bella Donna",
+  "birthname": "Bella Donna Boudreaux",
+  "types": [
+    "animated character",
+    "comics character",
+    "mutant",
+    "fictional character"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "energy blasts",
+    "astral projection"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a89"
+  },
+  "charname": "Siryn",
+  "birthname": "Theresa Rourke Cassidy",
+  "types": [
+    "superhero film character",
+    "mutant"
+  ],
+  "universes": [
+    "Earth-616",
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "sonic scream"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a8a"
+  },
+  "charname": "Iron Man",
+  "birthname": "Anthony Edward Carbonell Stark",
+  "types": [
+    "film character",
+    "fictional human",
+    "comics character"
+  ],
+  "universes": [
+    "Earth-616",
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "flight",
+    "armor",
+    "superhuman strength"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a8b"
+  },
+  "charname": "Cyclops",
+  "birthname": "Scott Summers",
+  "types": [
+    "anime character",
+    "superhero film character",
+    "animated character",
+    "mutant"
+  ],
+  "universes": [
+    "Earth-616",
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "optic blasts"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a8c"
+  },
+  "charname": "Luke Cage",
+  "birthname": "Carl Lucas",
+  "types": [
+    "mutate"
+  ],
+  "universes": [
+    "Earth-616",
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "superhuman durability",
+    "superhuman strength"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a8d"
+  },
+  "charname": "Ultimate Rogue",
+  "birthname": "Marian Carlyle",
+  "types": [
+    "mutant"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "superhuman endurance",
+    "superhuman durability",
+    "power mimicry or absorption",
+    "superhuman speed",
+    "superhuman strength"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a8e"
+  },
+  "charname": "Sauron",
+  "birthname": "Karl Lykos",
+  "types": [
+    "animated character",
+    "mutate",
+    "vampire in Marvel Universe",
+    "comics character"
+  ],
+  "universes": [
+    "Earth-616",
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "flight",
+    "superhuman durability",
+    "superhuman speed",
+    "superhuman strength"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a8f"
+  },
+  "charname": "Kiwi Black",
+  "birthname": "Marcus Skarr",
+  "types": [
+    "mutant"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "teleportation"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a90"
+  },
+  "charname": "Eddie Brock",
+  "birthname": "Edward Charles Brock",
+  "types": [
+    "superhero film character",
+    "animated character",
+    "fictional human",
+    "comics character"
+  ],
+  "universes": [
+    "Earth-616",
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "superhuman agility / reflexes",
+    "superhuman durability",
+    "superhuman speed",
+    "superhuman strength",
+    "healing factor"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a91"
+  },
+  "charname": "Human Torch",
+  "birthname": "Jonathan Lowell Spencer Storm",
+  "types": [
+    "film character",
+    "animated character",
+    "fictional human",
+    "mutate"
+  ],
+  "universes": [
+    "Earth-616",
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "flight",
+    "pyrokinesis"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a92"
+  },
+  "charname": "Invisible Woman",
+  "birthname": "Susan Storm",
+  "types": [
+    "film character",
+    "animated character",
+    "mutate"
+  ],
+  "universes": [
+    "Earth-616",
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "invisibility",
+    "force field"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a93"
+  },
+  "charname": "Terrax",
+  "birthname": "Tyros",
+  "types": [
+    "fictional human",
+    "fictional extraterrestrial",
+    "comics character"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "energy manipulation",
+    "superhuman durability"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a94"
+  },
+  "charname": "Nocturne",
+  "birthname": "Talia Josephine Wagner",
+  "types": [
+    "mutant"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "superhuman agility / reflexes",
+    "body hopping",
+    "telepathy"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a95"
+  },
+  "charname": "Maker",
+  "birthname": "Reed Richards",
+  "types": [
+    "mutate"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "elasticity",
+    "immortality"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a96"
+  },
+  "charname": "Arclight",
+  "birthname": "Philippa Sontag",
+  "types": [
+    "superhero film character",
+    "animated character",
+    "mutant"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "superhuman durability",
+    "superhuman strength"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a97"
+  },
+  "charname": "Ultimate Beast",
+  "birthname": "Henry McCoy",
+  "types": [
+    "mutant"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "enhanced smell",
+    "superhuman agility / reflexes",
+    "superhuman speed",
+    "superhuman strength"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a98"
+  },
+  "charname": "Mac Gargan",
+  "birthname": "MacDonald Gargan",
+  "types": [
+    "animated character",
+    "mutate"
+  ],
+  "universes": [
+    "Earth-616",
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "superhuman agility / reflexes",
+    "superhuman durability",
+    "superhuman speed",
+    "superhuman strength"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a99"
+  },
+  "charname": "Black Cat",
+  "birthname": "Felicia Hardy",
+  "types": [
+    "superhero film character",
+    "animated character",
+    "mutate",
+    "comics character"
+  ],
+  "universes": [
+    "Earth-616",
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "probability manipulation"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a9a"
+  },
+  "charname": "Oya",
+  "birthname": "Idie Okonkwo",
+  "types": [
+    "mutant"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "thermokinesis"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a9b"
+  },
+  "charname": "Hydro-Man",
+  "birthname": "Morris Bench",
+  "types": [
+    "fictional human",
+    "mutate",
+    "comics character"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "hydrokinesis"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a9c"
+  },
+  "charname": "Red Lotus",
+  "birthname": "Paul Hark",
+  "types": [
+    "film character",
+    "mutant"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "superhuman agility / reflexes",
+    "superhuman durability",
+    "superhuman speed",
+    "superhuman strength"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a9d"
+  },
+  "charname": "Ultimate Iceman",
+  "birthname": "Robert Drake",
+  "types": [
+    "mutant"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "cryokinesis"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a9e"
+  },
+  "charname": "Silvermane",
+  "birthname": "Silvio Manfredi",
+  "types": [
+    "cyborg in a work of fiction",
+    "fictional human",
+    "comics character"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "superhuman senses",
+    "superhuman durability",
+    "superhuman strength"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827a9f"
+  },
+  "charname": "Chameleon",
+  "birthname": "Дмитрий Анатолий Николаевич Смердяков Кравинов",
+  "types": [
+    "mutate"
+  ],
+  "universes": [
+    "Earth-616",
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "shapeshifting"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827aa0"
+  },
+  "charname": "Negasonic Teenage Warhead",
+  "birthname": "Ellie Phimister",
+  "types": [
+    "superhero film character",
+    "mutant"
+  ],
+  "universes": [
+    "Earth-616",
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "reality warping",
+    "precognition",
+    "telepathy"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827aa1"
+  },
+  "charname": "Blink",
+  "birthname": "Clarice Ferguson",
+  "types": [
+    "superhero film character",
+    "television character",
+    "animated character",
+    "mutant"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "teleportation"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827aa2"
+  },
+  "charname": "Purple Man",
+  "birthname": "Zebediah Killgrave",
+  "types": [
+    "mutate",
+    "comics character"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "mind control",
+    "healing factor"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827aa3"
+  },
+  "charname": "Thornn",
+  "birthname": "Lucia Callasantos",
+  "types": [
+    "mutant"
+  ],
+  "universes": [
+    "Earth-616",
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "superhuman senses",
+    "superhuman agility / reflexes",
+    "superhuman durability",
+    "superhuman speed",
+    "superhuman strength"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827aa4"
+  },
+  "charname": "Juggernaut",
+  "birthname": "Cain Marko",
+  "types": [
+    "superhero film character",
+    "CGI character",
+    "animated character",
+    "mutate",
+    "comics character"
+  ],
+  "universes": [
+    "Earth-616",
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "superhuman durability",
+    "immortality",
+    "superhuman strength"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827aa5"
+  },
+  "charname": "Sabretooth",
+  "birthname": "Victor Creed",
+  "types": [
+    "superhero film character",
+    "animated character",
+    "comics character",
+    "mutant"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "enhanced smell",
+    "superhuman longevity",
+    "superhuman senses",
+    "superhuman durability",
+    "superhuman strength",
+    "healing factor"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827aa6"
+  },
+  "charname": "Spider-Woman",
+  "birthname": "Martha Franklin",
+  "types": [
+    "mutate",
+    "comics character"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "flight",
+    "superhuman agility / reflexes",
+    "superhuman durability",
+    "superhuman speed",
+    "superhuman strength",
+    "telepathy"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827aa7"
+  },
+  "charname": "Electro",
+  "birthname": "Maxwell Dillon",
+  "types": [
+    "superhero film character",
+    "animated character",
+    "mutate",
+    "comics character"
+  ],
+  "universes": [
+    "Earth-616",
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "electrokinesis"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827aa8"
+  },
+  "charname": "Betsy Braddock",
+  "birthname": "Elizabeth Braddock",
+  "types": [
+    "superhero film character",
+    "animated character",
+    "mutant"
+  ],
+  "universes": [
+    "Earth-616",
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "precognition",
+    "psychokinesis",
+    "telepathy"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827aa9"
+  },
+  "charname": "Storm",
+  "birthname": "Ororo Munroe",
+  "types": [
+    "anime character",
+    "superhero film character",
+    "animated character",
+    "comics character",
+    "mutant"
+  ],
+  "universes": [
+    "Earth-616",
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "weather manipulation"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827aaa"
+  },
+  "charname": "Polaris",
+  "birthname": "Lorna Dane",
+  "types": [
+    "television character",
+    "animated character",
+    "mutant"
+  ],
+  "universes": [
+    "Earth-616",
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "magnetism manipulation"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827aab"
+  },
+  "charname": "Ezekiel",
+  "birthname": "Ezekiel Sims",
+  "types": [
+    "mutate",
+    "comics character"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "superhuman senses",
+    "superhuman agility / reflexes",
+    "superhuman speed",
+    "superhuman strength"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827aac"
+  },
+  "charname": "Rachel Summers",
+  "birthname": "Rachel Anne Summers",
+  "types": [
+    "mutant"
+  ],
+  "universes": [
+    "Earth-811",
+    "Earth-616",
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "psychokinesis",
+    "telepathy"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827aad"
+  },
+  "charname": "Professor X",
+  "birthname": "Charles Francis Xavier",
+  "types": [
+    "superhero film character",
+    "mutant"
+  ],
+  "universes": [
+    "Earth-616",
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "memory manipulation",
+    "telepathy"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827aae"
+  },
+  "charname": "Franklin Richards",
+  "birthname": "Franklin Benjamin Richards",
+  "types": [
+    "mutate"
+  ],
+  "universes": [
+    "Earth-616",
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "energy manipulation",
+    "reality warping",
+    "teleportation",
+    "mind control",
+    "immortality",
+    "invulnerability",
+    "astral projection",
+    "precognition",
+    "resurrection",
+    "psychokinesis",
+    "time travel",
+    "telepathy"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827aaf"
+  },
+  "charname": "Spider-Woman",
+  "birthname": "Gwendolyne Maxine Stacy",
+  "types": [
+    "animated character",
+    "mutate",
+    "comics character"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "superhuman agility / reflexes",
+    "superhuman durability",
+    "superhuman speed",
+    "superhuman strength"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827ab0"
+  },
+  "charname": "Havok",
+  "birthname": "Alexander Summers",
+  "types": [
+    "superhero film character",
+    "animated character",
+    "mutant"
+  ],
+  "universes": [
+    "Earth-616",
+    "Marvel Universe"
+  ],
+  "birthplace": "Honolulu",
+  "superpowers": [
+    "energy blasts"
+  ],
+  "religions": "Catholicism",
+  "gender": "male",
+  "occupation": [
+    "superhero",
+    "government agent"
+  ],
+  "memberof": [
+    "Starjammers",
+    "X-Men",
+    "Avengers",
+    "Brotherhood of Mutants",
+    "Defenders",
+    "X-Factor"
+  ]
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827ab1"
+  },
+  "charname": "Colossus",
+  "birthname": "Пётр Николаевич Распутин",
+  "types": [
+    "superhero film character",
+    "CGI character",
+    "animated character",
+    "mutant"
+  ],
+  "universes": [
+    "Earth-616",
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "inorganic",
+    "superhuman durability",
+    "superhuman strength"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827ab2"
+  },
+  "charname": "Strong Guy",
+  "birthname": "Guido Carosella",
+  "types": [
+    "animated character",
+    "mutant"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "kinetic absorption"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827ab3"
+  },
+  "charname": "Deadpool",
+  "birthname": "Wade Winston Wilson",
+  "types": [
+    "fictional soldier",
+    "superhero film character",
+    "animated character",
+    "mutate",
+    "supersoldier",
+    "video game character",
+    "comics character"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "healing factor"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827ab4"
+  },
+  "charname": "Deathbird",
+  "birthname": "Cal'syee Neramani",
+  "types": [
+    "mutant",
+    "Shi'ar"
+  ],
+  "universes": [
+    "Earth-616",
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "flight",
+    "superhuman agility / reflexes",
+    "superhuman durability",
+    "superhuman speed",
+    "superhuman strength"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827ab5"
+  },
+  "charname": "Abomination",
+  "birthname": "Emil Blonsky",
+  "types": [
+    "gamma mutate",
+    "mutate"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "superhuman durability",
+    "superhuman speed",
+    "superhuman strength",
+    "healing factor"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827ab6"
+  },
+  "charname": "Ultimate Colossus",
+  "birthname": "Пётр Николаевич Распутин",
+  "types": [
+    "comics character",
+    "mutant"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "superhuman endurance",
+    "inorganic",
+    "superhuman durability",
+    "superhuman strength"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827ab7"
+  },
+  "charname": "Meggan",
+  "birthname": "Meggan Puceanu",
+  "types": [
+    "mutant"
+  ],
+  "universes": [
+    "Earth-616",
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "flight",
+    "power mimicry or absorption",
+    "shapeshifting",
+    "superhuman strength"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827ab8"
+  },
+  "charname": "Sunspot",
+  "birthname": "Roberto da Costa",
+  "types": [
+    "superhero film character",
+    "animated character",
+    "mutant"
+  ],
+  "universes": [
+    "Earth-616",
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "flight",
+    "superhuman strength",
+    "photokinesis",
+    "thermokinesis"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827ab9"
+  },
+  "charname": "Sasquatch",
+  "birthname": "Walter Langkowski",
+  "types": [
+    "mutate",
+    "comics character"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "superhuman durability",
+    "superhuman strength",
+    "healing factor"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827aba"
+  },
+  "charname": "Holocaust",
+  "birthname": "William Rolfson",
+  "types": [
+    "mutant"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "energy blasts",
+    "flight",
+    "superhuman agility / reflexes",
+    "superhuman durability",
+    "superhuman strength"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827abb"
+  },
+  "charname": "Shaman",
+  "birthname": "Michael Twoyoungmen",
+  "types": [
+    "fictional human",
+    "comics character"
+  ],
+  "universes": [
+    "Earth-616",
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "levitation"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827abc"
+  },
+  "charname": "Jessica Jones",
+  "birthname": "Jessica Campbell Jones",
+  "types": [
+    "mutate",
+    "comics character"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "flight",
+    "superhuman durability",
+    "superhuman strength"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827abd"
+  },
+  "charname": "Jamie Braddock",
+  "birthname": "James Braddock Jr.",
+  "types": [
+    "mutant"
+  ],
+  "universes": [
+    "Earth-616",
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "reality warping"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827abe"
+  },
+  "charname": "Magik",
+  "birthname": "Ильяна Николаевна Распутина",
+  "types": [
+    "superhero film character",
+    "mutant"
+  ],
+  "universes": [
+    "Earth-616",
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "teleportation",
+    "magic in fiction"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827abf"
+  },
+  "charname": "Valeria Richards",
+  "birthname": "Valeria Meghan Richards",
+  "types": [
+    "fictional human",
+    "comics character"
+  ],
+  "universes": [
+    "Earth-616",
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "energy manipulation",
+    "teleportation",
+    "invisibility",
+    "force field",
+    "time travel"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827ac0"
+  },
+  "charname": "Vermin",
+  "birthname": "Edward Whelan",
+  "types": [
+    "mutate",
+    "comics character"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "superhuman senses",
+    "superhuman agility / reflexes",
+    "superhuman durability",
+    "superhuman strength"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827ac1"
+  },
+  "charname": "Beast",
+  "birthname": "Henry Philip McCoy",
+  "types": [
+    "anime character",
+    "superhero film character",
+    "animated character",
+    "video game character",
+    "mutant"
+  ],
+  "universes": [
+    "Earth-616",
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "superhuman senses",
+    "superhuman agility / reflexes",
+    "superhuman durability",
+    "superhuman speed",
+    "superhuman strength"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827ac2"
+  },
+  "charname": "Hyperstorm",
+  "birthname": "Jonathan Reed Richards",
+  "types": [
+    "mutant"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "magnetism manipulation",
+    "electrokinesis"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827ac3"
+  },
+  "charname": "Ultimate Green Goblin",
+  "birthname": "Norman Osborn",
+  "types": [
+    "fictional human",
+    "mutate",
+    "comics character"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "superhuman durability",
+    "superhuman speed",
+    "immortality",
+    "superhuman strength",
+    "healing factor"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827ac4"
+  },
+  "charname": "Shatterstar",
+  "birthname": "Gaveedra Seven",
+  "types": [
+    "superhero film character",
+    "mutant"
+  ],
+  "universes": [
+    "Mojoverse",
+    "Earth-616",
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "superhuman agility / reflexes",
+    "superhuman durability",
+    "superhuman speed",
+    "superhuman strength",
+    "healing factor"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827ac5"
+  },
+  "charname": "Rusty Collins",
+  "birthname": "Russell Collins",
+  "types": [
+    "superhero film character",
+    "animated character",
+    "mutant"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "pyrokinesis"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827ac6"
+  },
+  "charname": "Mister Fantastic",
+  "birthname": "Reed Richards",
+  "types": [
+    "film character",
+    "animated character",
+    "mutate"
+  ],
+  "universes": [
+    "Earth-616",
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "elasticity"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827ac7"
+  },
+  "charname": "Betty Ross",
+  "birthname": "Elizabeth Ross",
+  "types": [
+    "gamma mutate",
+    "superhero film character",
+    "harpy in a work of fiction",
+    "animated character",
+    "comics character"
+  ],
+  "universes": [
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "superhuman durability",
+    "superhuman speed",
+    "superhuman strength",
+    "healing factor"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+},{
+  "_id": {
+    "$oid": "635946525afa82398e827ac8"
+  },
+  "charname": "Iceman",
+  "birthname": "Robert Louis Drake",
+  "types": [
+    "superhero film character",
+    "animated character",
+    "mutant"
+  ],
+  "universes": [
+    "Earth-616",
+    "Marvel Universe"
+  ],
+  "birthplace": "",
+  "superpowers": [
+    "cryokinesis"
+  ],
+  "religions": "",
+  "gender": "",
+  "occupation": [],
+  "memberof": []
+}]
