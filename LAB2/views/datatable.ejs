@@ -1,0 +1,38 @@
+
+<!-- include header -->
+    <%- include('include/_header') %>
+<!-- /include header -->
+
+
+    <!-- Main Site -->
+    <main id="site-main">
+        <div class="container">
+
+            <!-- form handling -->
+                <table class="table">
+                    <thead class="thead-dark">
+                        <tr>
+                            <th>ID</th>
+                            <th>Char name</th>
+                            <th>Birth name</th>
+                            <th>Types</th>
+                            <th>Universes</th>
+                            <th>Birthplace</th>
+                            <th>Superpowers</th>
+                            <th>Religions</th>
+                            <th>Gender</th>
+                            <th>Occupation</th>
+                            <th>Member of</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <%- include('include/_show') %>
+                    </tbody>
+                </table>
+        </div>
+    </main>
+<!-- /Main Site -->
+
+<!-- include footer -->
+<%- include('include/_footer') %>
+<!-- /include footer -->
