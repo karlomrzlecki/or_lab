@@ -13,6 +13,14 @@ var schema = new mongoose.Schema({
    memberof: [String]
 })
 
+// schema.method("toJSON", function() {
+//    const { __v, _id, ...object } = this.toObject();
+//    object.id = _id;
+//    return object;
+//  });
+
+
 const characters = mongoose.model('characters', schema);
+
 
 module.exports = characters;

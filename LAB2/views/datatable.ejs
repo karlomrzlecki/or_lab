@@ -8,27 +8,23 @@
     <main id="site-main">
         <div class="container">
 
-            <!-- form handling -->
-                <table class="table">
-                    <thead class="thead-dark">
-                        <tr>
-                            <th>ID</th>
-                            <th>Char name</th>
-                            <th>Birth name</th>
-                            <th>Types</th>
-                            <th>Universes</th>
-                            <th>Birthplace</th>
-                            <th>Superpowers</th>
-                            <th>Religions</th>
-                            <th>Gender</th>
-                            <th>Occupation</th>
-                            <th>Member of</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <%- include('include/_show') %>
-                    </tbody>
-                </table>
+            <table id="characters" class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th>Char name</th>
+                        <th>Birth name</th>
+                        <th>Types</th>
+                        <th>Universes</th>
+                        <th>Birthplace</th>
+                        <th>Superpowers</th>
+                        <th>Religions</th>
+                        <th>Gender</th>
+                        <th>Occupation</th>
+                        <th>Member of</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
         </div>
     </main>
 <!-- /Main Site -->
@@ -36,3 +32,57 @@
 <!-- include footer -->
 <%- include('include/_footer') %>
 <!-- /include footer -->
+
+<script>
+    $(document).ready(function(){
+
+        $("#characters").DataTable({
+        dom: 'Bfrtip',
+        serverSide: true,
+        lengthMenu: [ 5, 10, 25, 50, 100 ],
+        ajax: {
+            url: "/api/chars",
+            type: "POST"
+        },
+        columns: [
+            { data : 'charname' },
+            { data : 'birthname' },
+            { data : 'types' },
+            { data : 'universes' },
+            { data : 'birthplace' },
+            { data : 'superpowers' },
+            { data : 'religions' },
+            { data : 'gender' },
+            { data : 'occupation' },
+            { data : 'memberof' }
+        ],
+        buttons: [
+        'pageLength',
+            {
+                text: 'Izvezi u JSON',
+                action: function ( e, datatable, button, config ) {
+                    var data = datatable.buttons.exportData();
+ 
+                    $.fn.dataTable.fileSave(
+                        new Blob( [ JSON.stringify( data ) ] ),
+                        'Lab2.json'
+                    );
+                }
+            },
+            {
+                text: 'Izvezi u CSV',
+                extend: 'csv'
+                
+            }
+        ]
+        });
+
+    });
+</script>
+
+<script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+<script src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
+<script src="https://cdn.datatables.net/1.12.1/js/dataTables.bootstrap5.min.js"></script>
+<script src="https://cdn.datatables.net/buttons/2.0.1/js/dataTables.buttons.min.js"></script>
+<script src="https://cdn.datatables.net/buttons/2.0.1/js/buttons.html5.min.js"></script>
