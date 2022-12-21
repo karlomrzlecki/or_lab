@@ -31,4 +31,9 @@ app.use('/files', express.static(path.resolve(__dirname, "assets/files")))
 // load routers
 app.use('/', require('./server/routes/router'))
 
+app.use((req,res,next) =>{
+    res.status(404).json({status:"Not implemented", message:"Method not implemented for requested resource", response: null});
+    res.end();
+})
+
 app.listen(PORT, ()=> { console.log(`Server is running on http://localhost:${PORT}`)});

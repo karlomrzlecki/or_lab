@@ -1,17 +1,78 @@
 {
-    "openapi": "3.0.3",
-    "info": {
-        "info": "OR LAB3",
-        "version": "1.3"
-      },
-      "paths":{
-        "/findAll" : {"get": {"summary": "Get all characters"}},
-        "/findOne" : {"get": {"summary": "Get one character by id"}},
-        "/findByType" : {"get": {"summary": "Get a character by type"}},
-        "/findByUniverse" : {"get": {"summary": "Get a character by universe"}},
-        "/findBySuperpower" : {"get": {"summary": "Get a character by superpower"}},
-        "/update" : {"put": {"summary": "Update character by id and field"}},
-        "/create" : {"post": {"summary": "Create a new character"}},
-        "/delete" : {"delete": {"summary": "Delete character by id"}}
-      }
+  "openapi":"3.0.3",
+  "info":{
+     "info":"OR LAB3",
+     "version":"1.3"
+  },
+  "paths":{
+     "/findAll":{
+        "get":{
+           "summary":"Get all characters",
+           "description":"Returns all characters from collection",
+           "produces":[
+              "application/json"
+           ]
+        },
+        "parameters":[
+           {
+              "charname":"String",
+              "birthname":"String",
+              "types":"[String]",
+              "universes":"[String]",
+              "birthplace":"String",
+              "superpowers":"[String]",
+              "religions":"String",
+              "gender":"String",
+              "occupation":"[String]",
+              "memberof":"[String]"
+           }
+        ],
+        "responses":{
+           "200":{
+              "description":"Fetch successfull"
+           },
+           "400":{
+              "description":"Invalid ID"
+           },
+           "404":{
+              "description":"Resource not found"
+           }
+        }
+     },
+     "/findOne":{
+        "get":{
+           "summary":"Get one character by id"
+        }
+     },
+     "/findByType":{
+        "get":{
+           "summary":"Get a character by type"
+        }
+     },
+     "/findByUniverse":{
+        "get":{
+           "summary":"Get a character by universe"
+        }
+     },
+     "/findBySuperpower":{
+        "get":{
+           "summary":"Get a character by superpower"
+        }
+     },
+     "/update":{
+        "put":{
+           "summary":"Update character by id and field"
+        }
+     },
+     "/create":{
+        "post":{
+           "summary":"Create a new character"
+        }
+     },
+     "/delete":{
+        "delete":{
+           "summary":"Delete character by id"
+        }
+     }
+  }
 }

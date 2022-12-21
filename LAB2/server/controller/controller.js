@@ -14,18 +14,14 @@ exports.datatablesFind = (req, res, next)=>{
     });
 }
 
-// Retrieve all Tutorials from the database.
 exports.findAll = (req, res) => {
 
     characters.find()
       .then(data => {
-        res.send(data);
+        res.send({"status": "OK", "message": "Fetched all characters", "response":data});
       })
       .catch(err => {
-        res.status(500).send({
-          message:
-            err.message || "Some error occurred while retrieving tutorials."
-        });
+        res.status(500).send({ status: "Unexpected error", message: "Error retrieving all character", response:null });
       });
   };
 
@@ -36,13 +32,13 @@ exports.findOne = (req, res) => {
   characters.findById(id)
     .then(data => {
       if (!data)
-        res.status(404).send({ message: "Character not found with id " + id });
-      else res.send(data);
+        res.status(404).send({ status: "Not found", message: "Error retrieving character with id " + id, response:null });
+      else res.send({status: "OK", message: "Fetched character with id " + id, response:data});
     })
     .catch(err => {
       res
         .status(500)
-        .send({ message: "Error retrieving character with id " + id });
+        .send({ status: "Unexpected error", message: "Error retrieving character with id " + id, response:null });
     });
 };
 
@@ -52,13 +48,13 @@ exports.findByType = (req, res) => {
     characters.find({types : req.query.type})
       .then(data => {
         if (!data)
-          res.status(404).send({ message: "Character not found with type " + id });
-        else res.send(data);
+          res.status(404).send({ status: "Not found", message: "Error retrieving character with type " + req.query.type, response:null });
+        else res.send({status: "OK", message: "Fetched character with type " + req.query.type, response:data});
       })
       .catch(err => {
         res
           .status(500)
-          .send({ message: "Error retrieving character with type " + id });
+          .send({ status: "Unexpected error", message: "Error retrieving character with type " + req.query.type, response:null });
       });
   };
 
@@ -68,13 +64,13 @@ exports.findByUniverse = (req, res) => {
     characters.find({universes : req.query.universe})
       .then(data => {
         if (!data)
-          res.status(404).send({ message: "Character not found with universe " + id });
-        else res.send(data);
+          res.status(404).send({ status: "Not found", message: "Error retrieving character with universe " + req.query.universe, response:null });
+        else res.send({status: "OK", message: "Fetched character with universe " + req.query.universe, response:data});
       })
       .catch(err => {
         res
           .status(500)
-          .send({ message: "Error retrieving character with universe " + id });
+          .send({ status: "Unexpected error", message: "Error retrieving character with universe " + req.query.universe, response:null });
       });
   };
 
@@ -84,21 +80,19 @@ exports.findBySuperpower = (req, res) => {
     characters.find({superpowers : req.query.superpower})
       .then(data => {
         if (!data)
-          res.status(404).send({ message: "Character not found with superpower " + id });
-        else res.send(data);
+          res.status(404).send({ status: "Not found", message: "Error retrieving character with universe " + req.query.superpower, response:null });
+        else res.send({status: "OK", message: "Fetched character with superpower " + req.query.superpower, response:data});
       })
       .catch(err => {
         res
           .status(500)
-          .send({ message: "Error retrieving character with superpower " + id });
+          .send({ status: "Unexpected error", message: "Error retrieving character with superpower " + req.query.superpower, response:null });
       });
   };
 
 exports.update = (req, res) => {
     if (!req.body) {
-      return res.status(400).send({
-        message: "Data to update can not be empty!"
-      });
+      return res.status(400).send({ status: "Data to update cannot be empty", message: "Error updating character", response:null });
     }
   
     const id = req.query.id;
@@ -108,22 +102,18 @@ exports.update = (req, res) => {
     characters.findByIdAndUpdate(id, req.body, { useFindAndModify: false })
       .then(data => {
         if (!data) {
-          res.status(404).send({
-            message: "Cannot update character with id " + id
-          });
-        } else res.send({ message: "Character was updated successfully." });
+          res.status(404).send({ status: "Not found", message: "Error updating character with id " + id, response:null });
+        } else res.send({status: "OK", message: "Character was updated sucessfully " + req.query.superpower, response: req.body});
       })
       .catch(err => {
-        res.status(500).send({
-          message: "Error updating character with id" + id
-        });
+        res.status(500).send({ status: "Unexpected error", message: "Error updating character with id " + id, response:null });
       });
   };
 
 exports.create = (req, res) => {
     console.log(req.body)
     if (!req.body.charname) {
-      res.status(400).send({ message: "Charname can not be empty!" });
+      res.status(400).send({ status: "Charname to create cannot be empty", message: "Error creating character", response:null });
       return;
     }
   
@@ -142,13 +132,10 @@ exports.create = (req, res) => {
   
     character.save(character)
       .then(data => {
-        res.send(data);
+        res.send({status: "OK", message: "New character was created sucessfully", response: data});
       })
       .catch(err => {
-        res.status(500).send({
-          message:
-            err.message || "Some error occurred while creating new character."
-        });
+        res.status(500).send({ status: "Unexpected error", message: "Error creating new character", response:null });
       });
   };
 
@@ -158,18 +145,12 @@ exports.delete = (req, res) => {
     characters.findByIdAndRemove(id, { useFindAndModify: false })
       .then(data => {
         if (!data) {
-          res.status(404).send({
-            message: "Cannot delete character with id " + id
-          });
+          res.status(404).send({ status: "Not found", message: "Error deleting character with id " + id, response:null });
         } else {
-          res.send({
-            message: "Character was deleted successfully!"
-          });
+          res.send({status: "OK", message: "Character was deleted sucessfully", response: data});
         }
       })
       .catch(err => {
-        res.status(500).send({
-          message: "Could not delete Tutorial with id=" + id
-        });
+        res.status(500).send({ status: "Unexpected error", message: "Error deleting a character", response:null });
       });
   };
