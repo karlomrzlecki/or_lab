@@ -1,0 +1,23 @@
+
+<!-- include header -->
+<%- include('include/_header') %>
+<!-- /include header -->
+
+
+    <!-- Main Site -->
+    <main id="site-main">
+        <div class="container">
+            <img src="<%= user.picture %>" width="150px">
+            <h3>Nickname: <%= user.nickname %></h3>
+            <h3>Email: <%= user.email %></h3>
+            <div>
+                <h3>All user info:</h3>
+                <pre><%= JSON.stringify(user) %></pre>
+            </div>
+        </div>
+    </main>
+<!-- /Main Site -->
+
+<!-- include footer -->
+<%- include('include/_footer') %>
+<!-- /include footer -->

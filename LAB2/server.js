@@ -8,8 +8,28 @@ const connectDB = require('./server/database/connection');
 
 const app = express();
 
+
+const { auth } = require('express-openid-connect');
+
+const config = {
+    authRequired: false,
+    auth0Logout: true,
+    baseURL: 'http://localhost:8080',
+    clientID: 'client',
+    issuerBaseURL: 'https://dev-ygr18nvr.eu.auth0.com',
+    secret: 'secret'
+};
+
+app.use(auth(config));
+
+// app.get('/', (req, res) => {
+//     res.send(req.oidc.isAuthenticated() ? 'Logged in' : 'Logged out')
+//   });
+
+
 dotenv.config( { path : 'config.env'} )
 const PORT = process.env.PORT || 8080
+
 
 // log requests
 app.use(morgan('tiny'));

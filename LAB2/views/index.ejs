@@ -7,6 +7,10 @@
     <!-- Main Site -->
     <main id="site-main">
         <div class="container">
+            <% if(isAuthenticated) { %>
+                <a href="/profile" class="btn btn-primary m-2 ml-0">Profile</a>
+                <% }%>
+            </br>
             <a href="/datatable" class="btn btn-primary m-2 ml-0">
                 Datatable
             </a>

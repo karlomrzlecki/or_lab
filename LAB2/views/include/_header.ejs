@@ -15,12 +15,17 @@
     
     <!-- Header -->
         <header id="header">
-            <nav>
+            <nav class="navbar navbar-light bg-light justify-content-between">
                 <div class="container">
-                    <div class="text-center">
-                        <a href="/" class="nav-brand text-dark">Marvel characters</a>
-                    </div>
-                </div>
+                <a href="/" class="navbar-brand">Marvel characters</a>
+                <form class="form-inline">
+                <% if(!isAuthenticated) { %>
+                  <a href="/login" class="btn btn-outline-success my-2 my-sm-0">Login</a>
+                  <% } else { %>
+                  <a href="/logout" class="btn btn-outline-danger my-2 my-sm-0">Logout</a>
+                  <% } %>
+                </form>
+            </div>
             </nav>
         </header>
     <!-- /Header -->
